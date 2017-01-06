@@ -1,5 +1,5 @@
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_matissewifi_defconfig
+TARGET_KERNEL_CONFIG := lineageos_matissewifi_defconfig
 
 # Recovery
 TARGET_OTA_ASSERT_DEVICE := matissewifi
